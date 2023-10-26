@@ -1,0 +1,23 @@
+#h1 {
+    color: white;
+    text-align: center;
+    font-size: 5rem
+}
+html {
+    background-color: #57719e;
+}
+p {
+    color: white;
+    text-align: center;
+font-family: 'Lora', serif;
+}
+.poster {
+width: 50%;
+margin-left: 25%;
+margin-top: 100px;
+color: aquamarine;
+}
+.loves {
+border: 5px solid aquamarine;
+width: 100%;
+}
